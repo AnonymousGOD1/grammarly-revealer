@@ -2,6 +2,9 @@
 
 A Chrome Extension Proof of Concept (PoC) demonstrating client-side data leakage in freemium text editing applications.
 
+<div align="center">
+  <img src="image.png" alt="Demo of the tool decrypting text" width="700">
+</div>
 ## ⚠️ Disclaimer
 
 **This software is for educational and research purposes only.**
